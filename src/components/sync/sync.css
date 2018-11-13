@@ -1,0 +1,4 @@
+.test {
+    --fontColor:greenyellow;
+    color: var(--fontColor);
+}
